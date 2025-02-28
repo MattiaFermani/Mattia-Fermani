@@ -8,9 +8,7 @@
 
 ###
 
-<center>
 ## 💻 Tech Stack
-</center>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="53" alt="csharp logo"  />
   <img width="21" />
