@@ -1,5 +1,5 @@
 # 💫 About Me  
-🔭 **Currently working on:** Progetti di sviluppo software in C#.
+🔭 **Currently working on:** Progetti di sviluppo software in C#.  
 👯 **Looking to collaborate on:** Progetti open-source, bot per Discord e giochi su Roblox.  
 🤝 **Looking for help with:** Ottimizzazione del codice, best practices e nuove tecnologie.  
 🌱 **Currently learning:** MySQL, C++ e Python.  
