@@ -1,7 +1,15 @@
-<h1 align="left">Hi 👋! My name is Mattia and I'm a Student from ITALY</h1>
+# 💫 About Me  
+🔭 **Currently working on:** Progetti di sviluppo software in C#.  
+👯 **Looking to collaborate on:** Progetti open-source, bot per Discord e giochi su Roblox.  
+🤝 **Looking for help with:** Ottimizzazione del codice, best practices e nuove tecnologie.  
+🌱 **Currently learning:** MySQL, C++ e Python.  
+⚡ **Fun fact:** Amo trovare soluzioni creative ai problemi e sperimentare con nuove tecnologie!  
+
 
 ###
 
+
+## 💻 Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="53" alt="csharp logo"  />
   <img width="21" />
@@ -20,6 +28,7 @@
 
 <br clear="both">
 
+## 🌐 Socials:
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -45,5 +54,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MattiaFermani&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattiaFermani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ###
